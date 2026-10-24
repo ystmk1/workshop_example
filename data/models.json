@@ -8,29 +8,18 @@
     ["Flash × Grain", "Found → Signed"]
   ],
   "counts": { "newFaces": 6, "models": 24 },
-  "look": "Soul 2.0 · style 'Flash editorial' (5e87c5bd-86b6-491a-94ab-046891d1e35e) · white seamless, direct flash with shutter drag, neutral-cool WB, 90s avant-garde styling",
+  "look": "Soul 2.0 · style 'Flash editorial' (5e87c5bd-86b6-491a-94ab-046891d1e35e) · hero: direct flash with shutter drag · cards: crisp high-detail flash, no motion blur, clean digital, unforced expressions · 90s avant-garde styling",
   "hero": {
-    "job": "eef13785-61c8-457a-9b7e-b5319922f003",
+    "job": "db28459f-cab1-489e-83c1-4523b6123b88",
     "src": "assets/hero.webp",
-    "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054308_eef13785-61c8-457a-9b7e-b5319922f003.png",
-    "video": null,
-    "alternates": [
-      { "job": "4ecd4a81-d3e2-4b12-994c-0aa1601b6d6d", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054425_4ecd4a81-d3e2-4b12-994c-0aa1601b6d6d.png" },
-      { "job": "b4fd6b7d-c0c7-4e98-8d6d-025e2a0cdb86", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054425_b4fd6b7d-c0c7-4e98-8d6d-025e2a0cdb86.png" }
-    ]
+    "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_060301_db28459f-cab1-489e-83c1-4523b6123b88.png",
+    "video": null
   },
   "models": [
-    { "id": "yun",    "no": 21, "name": "Yun",    "job": "eef13785-61c8-457a-9b7e-b5319922f003", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054308_eef13785-61c8-457a-9b7e-b5319922f003.png", "focus": "50% 35%" },
-    { "id": "awa",    "no": 22, "name": "Awa",    "job": "dbe72471-9fb5-4516-8fdb-ab46cfbdb763", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054308_dbe72471-9fb5-4516-8fdb-ab46cfbdb763.png", "focus": "50% 25%" },
-    { "id": "rory",   "no": 23, "name": "Rory",   "job": "950ccc2b-a341-4b6c-8af0-9bd53b2d31d0", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054309_950ccc2b-a341-4b6c-8af0-9bd53b2d31d0.png", "focus": "50% 40%",
-      "video": "assets/rory.mp4", "videoJob": "01d4c2d7-b22d-4801-9ba9-693fabccf0f5", "videoRemote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054747_01d4c2d7-b22d-4801-9ba9-693fabccf0f5.mp4" },
-    { "id": "anaya",  "no": 24, "name": "Anaya",  "job": "3b718183-dec8-4287-9423-ad0cfe9c2d84", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054309_3b718183-dec8-4287-9423-ad0cfe9c2d84.png", "focus": "50% 35%" },
-    { "id": "jide",   "no": 25, "name": "Jide",   "job": "8511054e-33af-47e7-8538-eafb2c1f29ce", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054308_8511054e-33af-47e7-8538-eafb2c1f29ce.png", "focus": "50% 30%" },
-    { "id": "lucia",  "no": 26, "name": "Lucía",  "job": "e8ec54b4-12f0-49a0-b2cd-0e4cfbab807a", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054309_e8ec54b4-12f0-49a0-b2cd-0e4cfbab807a.png", "focus": "50% 30%",
-      "video": "assets/lucia.mp4", "videoJob": "33bcec66-7cbf-45aa-872e-eea80ad76747", "videoRemote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054756_33bcec66-7cbf-45aa-872e-eea80ad76747.mp4" },
-    { "id": "bataa",  "no": 27, "name": "Bataa",  "job": "c2bdbe4c-e546-4c82-9efa-b15c68aeecd8", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054309_c2bdbe4c-e546-4c82-9efa-b15c68aeecd8.png", "focus": "50% 30%" },
-    { "id": "zola",   "no": 28, "name": "Zola",   "job": "13e6ae32-41ed-4965-ad81-cc9c74c4a7b4", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054308_13e6ae32-41ed-4965-ad81-cc9c74c4a7b4.png", "focus": "50% 30%" },
-    { "id": "sloane", "no": 29, "name": "Sloane", "job": "9f96819f-f66d-4ffb-91a2-c5624d258e7c", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054425_9f96819f-f66d-4ffb-91a2-c5624d258e7c.png", "focus": "50% 40%" },
-    { "id": "haru",   "no": 30, "name": "Haru",   "job": "800136c7-78f2-4bec-b3de-2f09488023c4", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054424_800136c7-78f2-4bec-b3de-2f09488023c4.png", "focus": "50% 35%" }
+    { "id": "anaya",  "no": 21, "name": "Anaya",  "job": "3b718183-dec8-4287-9423-ad0cfe9c2d84", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054309_3b718183-dec8-4287-9423-ad0cfe9c2d84.png", "focus": "50% 35%" },
+    { "id": "lucia",  "no": 22, "name": "Lucía",  "job": "ebbcf62d-9b1a-4359-8bde-610a88a6f0ec", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_060301_ebbcf62d-9b1a-4359-8bde-610a88a6f0ec.png", "focus": "50% 30%" },
+    { "id": "malia",  "no": 23, "name": "Malia",  "job": "65d896c7-b76e-4f70-8d18-5ec8ef1a686b", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_060303_65d896c7-b76e-4f70-8d18-5ec8ef1a686b.png", "focus": "50% 25%" },
+    { "id": "sloane", "no": 24, "name": "Sloane", "job": "9f96819f-f66d-4ffb-91a2-c5624d258e7c", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054425_9f96819f-f66d-4ffb-91a2-c5624d258e7c.png", "focus": "50% 40%" },
+    { "id": "haru",   "no": 25, "name": "Haru",   "job": "5ec935cc-8572-4ca2-a394-76462bd975bb", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_060301_5ec935cc-8572-4ca2-a394-76462bd975bb.png", "focus": "50% 35%" }
   ]
 }
