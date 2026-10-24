@@ -20,6 +20,7 @@
     { "id": "lucia",  "no": 22, "name": "Lucía",  "job": "ebbcf62d-9b1a-4359-8bde-610a88a6f0ec", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_060301_ebbcf62d-9b1a-4359-8bde-610a88a6f0ec.png", "focus": "50% 30%" },
     { "id": "malia",  "no": 23, "name": "Malia",  "job": "65d896c7-b76e-4f70-8d18-5ec8ef1a686b", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_060303_65d896c7-b76e-4f70-8d18-5ec8ef1a686b.png", "focus": "50% 25%" },
     { "id": "sloane", "no": 24, "name": "Sloane", "job": "9f96819f-f66d-4ffb-91a2-c5624d258e7c", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_054425_9f96819f-f66d-4ffb-91a2-c5624d258e7c.png", "focus": "50% 40%" },
-    { "id": "haru",   "no": 25, "name": "Haru",   "job": "5ec935cc-8572-4ca2-a394-76462bd975bb", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_060301_5ec935cc-8572-4ca2-a394-76462bd975bb.png", "focus": "50% 35%" }
+    { "id": "haru",   "no": 25, "name": "Haru",   "job": "5ec935cc-8572-4ca2-a394-76462bd975bb", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_060301_5ec935cc-8572-4ca2-a394-76462bd975bb.png", "focus": "50% 35%" },
+    { "id": "majok",  "no": 26, "name": "Majok",  "job": "8cf344d2-8deb-4122-ad53-745ce11290e2", "remote": "https://d8j0ntlcm91z4.cloudfront.net/user_35XoootZ8ipA66vFeCNtW0FSga9/hf_20261024_061004_8cf344d2-8deb-4122-ad53-745ce11290e2.png", "focus": "50% 25%" }
   ]
 }
