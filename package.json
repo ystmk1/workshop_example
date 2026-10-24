@@ -1,0 +1,12 @@
+{
+  "name": "barely-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "dev": "python -m http.server 4173"
+  },
+  "dependencies": {
+    "sharp": "0.33.5"
+  }
+}

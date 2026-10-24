@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bare(ly) — model agency</title>
+<meta name="description" content="Bare(ly) casts faces before the edit.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="scroller" id="scroller">
+  <div class="stage" id="stage">
+    <!-- hero -->
+    <div class="hero" id="hero"><img id="heroImg" alt=""></div>
+    <h1 class="mark" id="mark"></h1>
+    <p class="intro" id="intro"></p>
+    <div class="edition" id="edition"></div>
+
+    <!-- ring of thumbnails + manifesto -->
+    <div class="ring" id="ring"></div>
+    <div class="manifesto" id="manifesto"></div>
+
+    <!-- gallery -->
+    <h2 class="faces-title" id="facesTitle">(faces)</h2>
+    <div class="row" id="row"></div>
+  </div>
+</div>
+
+<!-- fixed chrome -->
+<div class="cta">
+  <a href="#faces" class="btn btn-red">Explore new faces</a>
+  <a href="#about" class="btn btn-black" id="aboutBtn"></a>
+</div>
+<nav class="dock">
+  <span class="tag" id="dockTag"></span>
+  <a href="#new" class="on" id="navNew"></a><i>/</i>
+  <a href="#models" id="navModels"></a><i>/</i>
+  <a href="#join">Become a model</a><i>/</i>
+  <a href="#shortlist" id="navShort">Shortlist (0)</a>
+</nav>
+
+<script src="main.js" type="module"></script>
+</body>
+</html>
